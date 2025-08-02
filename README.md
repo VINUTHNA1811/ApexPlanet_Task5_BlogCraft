@@ -150,12 +150,6 @@ ApexPlanet_Task5_BlogCraft/
 
 ---
 
-## 📌 Repository
-
-🔗 GitHub Repo: [VINUTHNA1811/ApexPlanet\_Task5\_BlogCraft](https://github.com/VINUTHNA1811/ApexPlanet_Task5_BlogCraft.git)
-
----
-
 ## 📺 Demo Video
 
 🔗 [LinkedIn Demo Post – Watch BlogCraft in Action](https://www.linkedin.com/posts/budde-vinuthna-231642345_webdevelopment-frontenddeveloper-javascript-activity-7357454305454342144-ETWq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZp6sUB_BHgff6t3CRDrvW4lvbYjRB6LCE)
